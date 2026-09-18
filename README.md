@@ -7,7 +7,7 @@ A formal digital forensics investigation analyzing the network and application-l
 ## 📌 Investigation Overview
 
 - **Lead Examiner:** Nebeuwa Ifeanyichukwu Raphael
-- **Course & Lab:** SBT-DF203 — Basic Networking Skills for Digital Forensics (Lab 6)
+- **Course & Lab:** SBT-DF203 - Basic Networking Skills for Digital Forensics (Lab 6)
 - **Primary Tools:** `iptables`, `tshark`, `wireshark`, `curl`, `apache2`, `sha256sum`
 - **Environment:** Kali Linux Web Server (`192.168.190.129/24`) and Windows 10 Client (`192.168.190.128/24`) in an isolated VMware Host-Only network (`192.168.190.0/24`)
 
